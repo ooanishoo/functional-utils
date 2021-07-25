@@ -1,0 +1,20 @@
+{
+  "name": "functional-utils",
+  "version": "1.0.0",
+  "description": "An attempt to write common functions using functional programming approach 😎⚡️",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ooanishoo/functional-utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ooanishoo/functional-utils/issues"
+  },
+  "homepage": "https://github.com/ooanishoo/functional-utils#readme"
+}
